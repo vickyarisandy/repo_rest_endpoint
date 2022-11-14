@@ -1,0 +1,33 @@
+_id: req_b07e778c18504c1b97590562af5e1991
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668390648773
+created: 1668390435942
+url: localhost/flutter_login/check.php
+name: auth
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_dd6891a24e604530a891abda457a5398
+      name: username
+      value: flutter
+      description: ""
+    - id: pair_d3809d356e2349c1b2993a120a38c141
+      name: password
+      value: flutter
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1668387571389
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

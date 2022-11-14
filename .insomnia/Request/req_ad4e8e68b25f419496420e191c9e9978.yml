@@ -1,0 +1,34 @@
+_id: req_ad4e8e68b25f419496420e191c9e9978
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668389923025
+created: 1668388009325
+url: localhost/flutter_login/create.php
+name: request form
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: title
+      value: test
+      id: pair_5b88df5b325a402694472c647da6e716
+    - id: pair_729424061c2c41f19aab8980bd0e871c
+      name: content
+      value: test
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_9163e5384c874597983d7c39b80b8fad
+    disabled: false
+authentication: {}
+metaSortKey: -1668387571589
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_5a989a6fe94b4e1fa5ebd0b6ed3230b5
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668390667517
+created: 1668389636615
+url: localhost/flutter_login/delete.php
+name: Delete id
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_cf2052651a2449d2af11aaa5823e087a
+      name: id
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1668387571489
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

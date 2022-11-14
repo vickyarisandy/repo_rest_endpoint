@@ -1,0 +1,37 @@
+_id: req_58d076f489aa4429a1f32df74ea433ae
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668389529728
+created: 1668389294781
+url: localhost/flutter_login/update.php
+name: Update Form
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_86e22988fd734d2fbc626ac62911fe62
+      name: id
+      value: "1"
+      description: ""
+    - id: pair_6fd7b45725154823a466fe58776e4b6d
+      name: title
+      value: judul ganti
+      description: ""
+    - id: pair_959def0bcfc44ec189b81142d7355d66
+      name: content
+      value: isi ganti
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1668387571539
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e361832104804b1ab428685c1f68353c
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668387945069
+created: 1668387571639
+url: localhost/flutter_login/list.php
+name: list note_app
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668387571639
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

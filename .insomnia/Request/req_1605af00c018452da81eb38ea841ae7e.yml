@@ -1,0 +1,21 @@
+_id: req_1605af00c018452da81eb38ea841ae7e
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668390143660
+created: 1668389832518
+url: localhost/flutter_login/detail.php?id=2
+name: Detail get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668387571439
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

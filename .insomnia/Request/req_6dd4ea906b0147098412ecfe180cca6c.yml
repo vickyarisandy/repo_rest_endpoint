@@ -1,0 +1,37 @@
+_id: req_6dd4ea906b0147098412ecfe180cca6c
+type: Request
+parentId: fld_7bc986cdc53c49d1841bfda1f887430a
+modified: 1668390653328
+created: 1668390536799
+url: localhost/flutter_login/register.php
+name: auth register
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_a8dcf20e8e4840a09e88c37dd55bdcee
+      name: username
+      value: test 1
+      description: ""
+    - id: pair_a3eb0679529f455f9b9f93d64c5e08ff
+      name: password
+      value: "12345"
+      description: ""
+    - id: pair_c05fa772420141cea79f34d0a334d99e
+      name: level
+      value: admin
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1668387571339
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
